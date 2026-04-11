@@ -1,7 +1,4 @@
 <div align="center">
-  <br />
-      <img src="assets/readme/readme-hero.webp" alt="Project Banner">
-  <br />
 
   <div>
 <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
